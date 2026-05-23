@@ -431,5 +431,6 @@ Possible improvements include:
 Data Analyst | Business Intelligence Enthusiast
 
 - LinkedIn: https://www.linkedin.com/in/ansh-bherwani-0ab541263/
-- Email: anshbherwani24@gmail.com#   w a l m a r t - b u s i n e s s - a n a l y s i s - d a t a - v i s u a l i s a t i o n - p o w e r b i  
+- Email: anshbherwani24@gmail.com#   w a l m a r t - b u s i n e s s - a n a l y s i s - d a t a - v i s u a l i s a t i o n - p o w e r b i 
+ 
  
